@@ -2,7 +2,7 @@
 
 import sys
 
-from actors import actor
+from scalalike.actors import actor
 
 
 def output(msg):
